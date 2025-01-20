@@ -38,6 +38,7 @@ npm start
 2. Run the frontend:
 
 cd frontend
+
 npm start
 
 
