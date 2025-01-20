@@ -18,17 +18,21 @@ This is a task management system with both frontend and backend components.
 2. Install dependencies for the backend:
 
 cd backend
+
 npm install
 
 3. Install dependencies for the frontend:
 
 cd frontend
+
 npm install
 
 ## Usage
+
 1. Run the backend:
 
 cd backend
+
 npm start
 
 2. Run the frontend:
